@@ -1,0 +1,14 @@
+"WEIGHTED RESIDUAL" "PLOT SYMBOL" "OBSERVATION or PRIOR NAME"
+1.587987                  1       hd01.ss
+1.175836                  1       hd02.ss
+-0.5025997                  1       hd03.ss
+-2.050188                  1       hd04.ss
+-0.1175966                  1       hd05.ss
+-0.5465594                  1       hd06.ss
+0.1886675                  1       hd07.ss
+0.9892226                  1       hd08.ss
+-0.2737315                  1       hd09.ss
+0.8817677                  1       hd10.ss
+0.3785458E-01              2       Flow01_1
+0.8817534E-01              3       K_RB_PR
+0.3207238E-01              3       VK_CB_PR

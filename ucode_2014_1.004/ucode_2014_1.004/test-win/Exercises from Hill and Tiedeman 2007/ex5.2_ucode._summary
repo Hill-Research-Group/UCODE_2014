@@ -1,0 +1,44 @@
+
+ SELECTED STATISTICS FROM MODIFIED GAUSS-NEWTON ITERATIONS
+
+        # PARAMs  PARAM, MAX     MAX.             MAX. CHANGE   DAMPING
+ ITER.  ESTIMATED CALC. CHANGE   CALC. CHANGE     ALLOWED       PARAMETER
+ -----  --------- ------------  ---------------- -------------  ------------
+    1        6     HK_2         -0.470764         2.00000        1.0000    
+    2        6     HK_2         -0.356948         2.00000        1.0000    
+    3        6     HK_2          0.108843         2.00000       0.81547    
+    4        6     HK_2          0.183195E-01     2.00000        1.0000    
+    5        6     HK_2         -0.524725E-02     2.00000       0.82569    
+
+
+ PARAMETER VALUES FOR EACH ITERATION
+ - INDICATES DAMPING RESULTED FROM PARAMETER CONSTRAINTS FOR THAT ITERATION.
+ * INDICATES SOME PARAMETERS WERE OMITTED DURING THAT ITERATION.  THE VALUES
+   OF THOSE PARAMETERS ARE REPORTED EVEN THOUGH THEY WERE NOT UPDATED
+
+   ITER   HK_1         HK_2         VK_CB        K_RB         RCH_1       
+      0    0.3000E-03   0.4000E-04   0.1000E-06   0.1200E-02    63.07    
+      1    0.4136E-03   0.2117E-04   0.9771E-07   0.1158E-02    49.38    
+      2    0.4606E-03   0.1361E-04   0.9786E-07   0.1165E-02    48.48    
+      3    0.4619E-03   0.1482E-04   0.9883E-07   0.1168E-02    47.76    
+      4    0.4620E-03   0.1509E-04   0.9904E-07   0.1168E-02    47.57    
+      5    0.4621E-03   0.1503E-04   0.9890E-07   0.1169E-02    47.59    
+
+   ITER   RCH_2       
+      0     31.54    
+      1     36.78    
+      2     37.61    
+      3     38.26    
+      4     38.40    
+      5     38.37    
+
+ SUMS OF SQUARED WEIGHTED RESIDUALS FOR EACH ITERATION
+
+         SUMS OF SQUARED WEIGHTED RESIDUALS
+         ITER.  OBSERVATIONS  PRIOR INFO.      TOTAL       # INCLUDED OBS
+              0    1752.4        0.0000        1752.4         11 OF      11
+              1    81.462       0.19400E-01    81.482         11 OF      11
+              2    10.941       0.14694E-01    10.956         11 OF      11
+              3    10.555       0.95119E-02    10.565         11 OF      11
+              4    10.541       0.88035E-02    10.550         11 OF      11
+              5    10.541       0.87989E-02    10.550         11 OF      11
